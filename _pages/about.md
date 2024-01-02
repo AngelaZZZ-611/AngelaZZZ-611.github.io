@@ -6,7 +6,7 @@ subtitle: Computer Science Department, New York University, 60 5th Ave, New York
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
