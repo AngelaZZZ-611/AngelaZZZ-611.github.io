@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Science Department, New York University, 60 5th Ave, New York, NY, 10011 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
